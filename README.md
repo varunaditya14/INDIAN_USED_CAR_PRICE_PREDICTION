@@ -42,3 +42,15 @@ The dataset used contains the following features:
 ```bash
 git clone https://github.com/your-username/used-car-price-prediction.git
 cd used-car-price-prediction
+
+2.Install requirements:
+pip install -r requirements.txt
+
+3.Open the notebook:
+jupyter notebook indian_used_car_prediction.ipynb
+
+Results
+The Random Forest Regressor gave the best performance with an R² score above 0.90.
+
+Important features: Present Price, Year, Fuel Type, and Kms Driven.
+

@@ -54,23 +54,3 @@ The Random Forest Regressor gave the best performance with an R² score above 0.
 
 Important features: Present Price, Year, Fuel Type, and Kms Driven.
 
-Use Cases
-Sellers can estimate a fair price for their vehicle.
-
-Buyers can avoid overpaying for used cars.
-
-Dealers can analyze market trends.
-
-📚 Future Work
-Include car brands and locations for regional price variations.
-
-Deploy as a web app using Streamlit or Flask.
-
-Integrate live scraping of used car platforms for real-time predictions.
-
-🙌 Acknowledgements
-Dataset Source: Provided in CSV format (uploaded)
-
-Inspired by the Indian automotive resale market
-
-

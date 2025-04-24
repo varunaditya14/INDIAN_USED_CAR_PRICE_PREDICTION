@@ -51,6 +51,5 @@ jupyter notebook indian_used_car_prediction.ipynb
 
 Results
 The Random Forest Regressor gave the best performance with an R² score above 0.90.
-
 Important features: Present Price, Year, Fuel Type, and Kms Driven.
 

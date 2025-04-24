@@ -54,6 +54,9 @@ The Random Forest Regressor gave the best performance with an R² score above 0.
 
 Important features: Present Price, Year, Fuel Type, and Kms Driven.
 
+
+
+
  Use Cases
 Sellers can estimate a fair price for their vehicle.
 Buyers can avoid overpaying for used cars.
